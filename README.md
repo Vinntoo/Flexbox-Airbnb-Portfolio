@@ -15,7 +15,7 @@ Features
 -Easy Customization: The code is well-structured and organized, making it easy to customize the website to suit your preferences and showcase your own projects.
 
 Prerequisites
-Before you begin, make sure you have the following installed:
+Before you begin, make sure you have the following installed:  
 
 A code editor (e.g., Visual Studio Code, Sublime Text, Atom, etc.)
 A modern web browser (e.g., Chrome, Firefox, Edge, etc.)
